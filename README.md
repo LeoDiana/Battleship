@@ -1,5 +1,5 @@
 # Battleship
-Classic Battleship game for 2 real player written on Unity as individual work for university.  
+Classic Battleship game for 2 real players written on Unity as individual work for the university.  
 
 ## How to run project:  
 Unarchive Build.zip, run Battleship.exe  
